@@ -7,7 +7,7 @@ about:
   head: ba1d896
   archived: false
   latestVersion: v1.15.0
-  collectedAt: 2026-09-04T19:59:08Z
+  collectedAt: 2026-09-04T20:45:01Z
 timeline:
   created: 2020-05-03
   lastCommit: 2026-02-27
@@ -81,6 +81,54 @@ total:
   openIssue: 3
   commit: 225
 ---
+path: /home/runner/.x-repo/github.com/kordamp/pomchecker
+collectedAt: 2026-09-04T20:45:02Z
+loc:
+  Java:
+    code: 1529
+    comments: 765
+    blanks: 292
+    files: 29
+  Xml:
+    code: 1287
+    comments: 367
+    blanks: 61
+    files: 19
+  Groovy:
+    code: 420
+    comments: 149
+    blanks: 90
+    files: 7
+  AsciiDoc:
+    code: 385
+    comments: 0
+    blanks: 72
+    files: 10
+  Sh:
+    code: 316
+    comments: 172
+    blanks: 58
+    files: 2
+  Batch:
+    code: 238
+    comments: 0
+    blanks: 45
+    files: 2
+  Yaml:
+    code: 106
+    comments: 34
+    blanks: 11
+    files: 2
+  Text:
+    code: 0
+    comments: 11
+    blanks: 4
+    files: 1
+total:
+  code: 4281
+  comments: 1498
+  blanks: 633
+  files: 72
 ---
 date: "2026-08-24"
 repo:
