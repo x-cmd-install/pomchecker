@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.15.0"
   latestRelease: "v1.15.0"
   latestPrerelease: "early-access"
-  collectedAt: 2026-09-09T05:57:20Z
+  collectedAt: 2026-09-09T20:19:57Z
 timeline:
   created: 2020-05-03
   lastCommit: 2026-02-27
@@ -84,7 +84,7 @@ total:
   commit: 225
 ---
 path: /home/runner/.x-repo/github.com/kordamp/pomchecker
-collectedAt: 2026-09-09T05:57:21Z
+collectedAt: 2026-09-09T20:19:58Z
 loc:
   Java:
     code: 1529
