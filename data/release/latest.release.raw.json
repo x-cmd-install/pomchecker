@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9108121,
       "digest": "sha256:4b19b67ffee054885222cbab74b68736d930f63edb47cddb01a305fed4da3a84",
-      "download_count": 10901,
+      "download_count": 10936,
       "created_at": "2026-02-27T15:26:38Z",
       "updated_at": "2026-02-27T15:26:38Z",
       "browser_download_url": "https://github.com/kordamp/pomchecker/releases/download/v1.15.0/pomchecker-1.15.0.zip"
