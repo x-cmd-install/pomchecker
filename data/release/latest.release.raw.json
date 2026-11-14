@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9083242,
       "digest": "sha256:cc858d96e5e645618dbd214741758a6013670dd26dfc4d5ebb7a8b7ee8c69b1a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-02-27T15:26:36Z",
       "updated_at": "2026-02-27T15:26:37Z",
       "browser_download_url": "https://github.com/kordamp/pomchecker/releases/download/v1.15.0/pomchecker-1.15.0.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9108121,
       "digest": "sha256:4b19b67ffee054885222cbab74b68736d930f63edb47cddb01a305fed4da3a84",
-      "download_count": 15999,
+      "download_count": 16061,
       "created_at": "2026-02-27T15:26:38Z",
       "updated_at": "2026-02-27T15:26:38Z",
       "browser_download_url": "https://github.com/kordamp/pomchecker/releases/download/v1.15.0/pomchecker-1.15.0.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9962462,
       "digest": "sha256:a89d00f8d5a694f599814ee65b124cf73661d51f7e4f8056714facd82ca4e3d0",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-02-27T15:26:39Z",
       "updated_at": "2026-02-27T15:26:40Z",
       "browser_download_url": "https://github.com/kordamp/pomchecker/releases/download/v1.15.0/pomchecker-cli-1.15.0-all.jar"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:d5b1f46669d1cff3be556b1656732c8777ad8ad3f3d05459cfb11dadb1f17d19",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-02-27T15:26:35Z",
       "updated_at": "2026-02-27T15:26:35Z",
       "browser_download_url": "https://github.com/kordamp/pomchecker/releases/download/v1.15.0/VERSION"
